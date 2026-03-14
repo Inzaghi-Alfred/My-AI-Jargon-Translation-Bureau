@@ -47,7 +47,7 @@ import {
   Fingerprint, Search, Tag, Keyboard, Sparkles, Rocket, MessageSquare, 
   Code2
 } from 'lucide-react';
-import Archive034 from './redbook-term-Distillation'
+
 
 // --- 本地项目配置指南 (VS Code) ---
 
